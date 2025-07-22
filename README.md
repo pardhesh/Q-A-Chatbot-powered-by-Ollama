@@ -37,7 +37,9 @@ pip install -r requirements.txt
 
 ## Create a .env file
 LANGCHAIN_API=your_api_key_here
+
 LANGCHAIN_PROJECT=Simple Q/A Chatbot through Ollama
+
 LANGCHAIN_TRACING_V2=true
 
 # Run the app
